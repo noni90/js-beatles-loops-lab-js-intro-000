@@ -10,7 +10,7 @@ let arr=[];
   return arr;
 }
 
-function johnLennonFacts(fact)
+function johnLennonFacts(facts)
 {
   const facts = [
   "He was the last Beatle to learn to drive",
