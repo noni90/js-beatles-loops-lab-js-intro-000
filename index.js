@@ -10,7 +10,7 @@ let arr=[];
   return arr;
 }
 
-function johnLennonFacts(facts)
+function johnLennonFacts(fact)
 {
   const facts = [
   "He was the last Beatle to learn to drive",
@@ -20,10 +20,10 @@ function johnLennonFacts(facts)
 ];
 var i = 0;
 while (i<facts.length) {
-  facts[i] = facts[i]+"!!!";
+  fact[i] = facts[i]+"!!!";
   i++;
 }
-return facts;
+return fact;
 }
 
 function iLoveTheBeatles(n)
