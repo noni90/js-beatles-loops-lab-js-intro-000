@@ -13,7 +13,7 @@ let arr=[];
 function johnLennonFacts(facts)
 {
   const fact=[];
-var i = 0;
+let i = 0;
 while (i<facts.length) {
   fact.push(`${facts[i]} !!!`);
   i++;
