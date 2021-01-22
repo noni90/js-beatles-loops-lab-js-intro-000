@@ -12,13 +12,13 @@ let arr=[];
 
 function johnLennonFacts(facts)
 {
-  const fact=[];
+  const fa=[];
 let i = 0;
 while (i<facts.length) {
-  fact.push(`${facts[i]} !!!`);
+  fa.push(`${facts[i]} !!!`);
   i++;
 }
-return fact;
+return fa;
 }
 
 function iLoveTheBeatles(n)
